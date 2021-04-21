@@ -4,6 +4,7 @@ the Simple Answer is NO!, but with Scripting! you cant imagine what you can Achi
 
 ![User Interface](https://github.com/medos20/Irregular-Numbering-InDesign-JavaScript/blob/main/Irregular%20Numbering.jpg)
 
+![ScreenShot](https://github.com/medos20/Irregular-Numbering-InDesign-JavaScript/blob/main/Screen%20Shot%20InDesign.jpg)
 # How to use ?
 its so easy to learn and use, just put star symbol '*' in any text frames in master page single or facing page and select the proper binding direction and you are ready to go!
 
