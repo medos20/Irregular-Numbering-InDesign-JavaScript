@@ -5,7 +5,7 @@ the Simple Answer is NO!, but with Scripting! you cant imagine what you can Achi
 ![User Interface](https://github.com/medos20/Irregular-Numbering-InDesign-JavaScript/blob/main/Irregular%20Numbering.jpg)
 
 # Example of using Star Symbol(*) with Start from Zero Checked!
-![ScreenShot](https://github.com/medos20/Irregular-Numbering-InDesign-JavaScript/blob/main/Screen%20Shot%20InDesign3.jpg)
+![ScreenShot](https://github.com/medos20/Irregular-Numbering-InDesign-JavaScript/blob/main/Screen_Shot_InDesign.jpg)
 
 # Quick Tip in Use 
 its so easy to learn and use, just put star symbol '*' in any text frames in master page single or facing page and select the proper binding direction and you are ready to go!
