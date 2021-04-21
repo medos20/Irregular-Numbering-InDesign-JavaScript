@@ -4,7 +4,7 @@ the Simple Answer is NO!, but with Scripting! you cant imagine what you can Achi
 
 ![User Interface](https://github.com/medos20/Irregular-Numbering-InDesign-JavaScript/blob/main/Irregular%20Numbering.jpg)
 
-# Example of using Star Symbol(*) with Start with Zero Checked!
+# Example of using Star Symbol(*) with Start from Zero Checked!
 ![ScreenShot](https://github.com/medos20/Irregular-Numbering-InDesign-JavaScript/blob/main/Screen%20Shot%20InDesign3.jpg)
 
 # Quick Tip in Use 
