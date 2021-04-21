@@ -7,6 +7,7 @@ the Simple Answer is NO!, but with Scripting! you cant imagine what you can Achi
 
 # How to use ?
 its so easy to learn and use, just put star symbol '*' in any text frames in master page single or facing page and select the proper binding direction and you are ready to go!
+
 1-Document Supported in this Version are RTL and LTR.
 
 2-To Use the Script Correctly just Put Star Symbol (*) into Text Frame in Master Single or Facing Pages. 
