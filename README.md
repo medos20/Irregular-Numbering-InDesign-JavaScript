@@ -32,4 +32,4 @@ its so easy to learn and use, just put star symbol '*' in any text frames in mas
 ![about](https://github.com/medos20/Irregular-Numbering-InDesign-JavaScript/blob/main/About.jpg)
 
 # Copyright (c) 2021 - Hasanain Scripts
-All Rights Reserved to Mohammad Ibrahim Hasanain on Destributin this Script or Modifying it
+All Rights Reserved to Mohammad Ibrahim Hasanain on Destributing this Script or Modifying it
