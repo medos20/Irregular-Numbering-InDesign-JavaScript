@@ -9,3 +9,6 @@ the Simple Answer is NO!, but with Scripting! you cant imagine what you can Achi
 its so easy to learn and use, just put star symbol '*' in any text frames in master page single or facing page and select the proper binding direction and you are ready to go!
 
 ![HEL](https://github.com/medos20/Irregular-Numbering-InDesign-JavaScript/blob/main/Help.jpg)
+
+# About
+![about](https://github.com/medos20/Irregular-Numbering-InDesign-JavaScript/blob/main/About.jpg)
