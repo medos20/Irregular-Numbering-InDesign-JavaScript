@@ -33,5 +33,8 @@ its so easy to learn and use, just put star symbol '*' in any text frames in mas
 # About
 ![about](https://github.com/medos20/Irregular-Numbering-InDesign-JavaScript/blob/main/About.jpg)
 
+# Youtube Video Tutorial in Arabic but Understandable by Examples :
+[![tutorial](https://github.com/medos20/Irregular-Numbering-InDesign-JavaScript/blob/main/yt-cover.jpg?raw=true)](https://youtu.be/QwyiEE1DZDE)
+
 # Copyright (c) 2021 - Hasanain Scripts
 All Rights Reserved to Mohammad Ibrahim Hasanain on Destributing this Script or Modifying it
