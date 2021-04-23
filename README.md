@@ -1,5 +1,5 @@
 # Irregular-Numbering System-InDesign-JavaScript - Version 1.00
-Irregular Numbering InDesign JavaScript Will Let you Start Numbering with Number Zero(0) So Page One Will be Numbered as Zero, a lot of People Ask me (Can this be done in InDesign!)
+Irregular Numbering InDesign JavaScript Will Let you Start Numbering with Number Zero(0) ,So page 1 and 2 will be the next facing pages! ,a lot of People Ask me (Can this be done in InDesign!)
 the Simple Answer is NO!, but with Scripting! you cant imagine what you can Achive!, So here it is , it's Possible Now!
 
 ![User Interface](https://github.com/medos20/Irregular-Numbering-InDesign-JavaScript/blob/main/Irregular%20Numbering.jpg)
